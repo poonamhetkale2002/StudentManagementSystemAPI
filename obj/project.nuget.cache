@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mwQK1wMCwlY=",
+  "dgSpecHash": "5LFR0coMwm0=",
   "success": true,
-  "projectFilePath": "D:\\MSC_CS-II\\Sem_IV\\.NET\\DOTNET_Practical\\StudentManagementSystemAPI\\StudentManagementSystemAPI\\StudentManagementSystemAPI.csproj",
+  "projectFilePath": "D:\\StudentManagementSystemAPI\\StudentManagementSystemAPI\\StudentManagementSystemAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Poonam Hetkale\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Poonam Hetkale\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
